@@ -1,0 +1,55 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+    color:#155E9C
+    font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";   
+    font-size: 14;
+    line-height: 17px;
+    width: 800px;
+    background-color: azure;
+    padding: 17px;
+    }
+
+.paragraph_2{color:darkslategray; background-color:rgba(167,237,177,0.41)}
+.o_meni{
+    background-image: url("../Nova mapa/Slike/background2.jpg");
+    color:#26410A;
+    padding: 15px;
+    margin: 15px;
+    width: 45%;
+}
+h1,h2{
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    color:#310203
+}
+
+span{ color: #A41616;}
+.pozadina{
+    background-image: url("../Nova mapa/Slike/background2.jpg");
+    }
+.vjezbe {
+    color:brown; background-color: rgba(128,12,14,0.60);
+    background-image:url("Slike/background2.png");color:#155E9C;
+    font-family:"Consolas", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "Monaco", "Courier New", "monospace";   
+    font-size: 14;
+    line-height: 16px;
+    width: 800px;
+    background-color:bisque;
+    padding: 16px;
+    }
+
+
+.trecpozadina {
+    background-image: url("Slike/background3.jpg");
+}
+a:link{
+    color: black;
+    background-color: aquamarine;
+    padding: 2px;
+    line-height: 25px;
+    border:2 px solid #8D98DC;
+}
+a:hover{
+    background-color: darkgray;
+ 
+}
